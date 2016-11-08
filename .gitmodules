@@ -1,0 +1,3 @@
+[submodule "themes/Daily-chirpy"]
+	path = themes/Daily-chirpy
+	url = https://github.com/chirpytime/hexo-theme-Daily.git
